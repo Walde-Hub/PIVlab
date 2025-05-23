@@ -23,6 +23,8 @@ navigation:
     url: "/PIVlab/wiki"
   - title: "Hardware"
     url: "/PIVlab/hardware"
+  - title: "Support"
+    url: "PIVlab/support"
   - title: "Screenshots"
     url: "/PIVlab/screenshots"
   - title: "Applications"
